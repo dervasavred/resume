@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: J Mills's Resume
-description: Resume for J Mills
+title: J_Milld  # You can add your name here
+
+#logo: 1.png # Use a relative path to logo image 
+
+description: Resume for J Mills # Fix hyphenation 
+
+#show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+#plugins:
+#  - jekyll-seo-tag # Add SEO plugin
+
+email: jm@jmills.work # Allow visitors to contact you
